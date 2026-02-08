@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "届かない恋 '13",
+  "base_artist": "上原れな",
+  "createdAt": "2026-02-08T10:12:01.165494Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "届かない恋",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/01_届かない恋_上原れな.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "届かない恋 Live at Campus Fes",
+      "artist": "小木曽雪菜",
+      "has_synced": true,
+      "path": "select/02_届かない恋_Live_at_Campus_Fes_小木曽雪菜.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "届かない恋",
+      "artist": "Rena Uehara",
+      "has_synced": true,
+      "path": "select/03_届かない恋_Rena_Uehara.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "届かない恋",
+      "artist": "冬馬かずさ",
+      "has_synced": true,
+      "path": "select/04_届かない恋_冬馬かずさ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "届かない恋",
+      "artist": "Kazusa Touma",
+      "has_synced": true,
+      "path": "select/05_届かない恋_Kazusa_Touma.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "届かない恋 '13 (TV EDIT)",
+      "artist": "上原れな",
+      "has_synced": false,
+      "path": "select/06_届かない恋_'13_(TV_EDIT)_上原れな.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "届かない恋 Live at Campus Fes (TV anime ver.)",
+      "artist": "小木曽雪菜(CV:米澤円)",
+      "has_synced": true,
+      "path": "select/07_届かない恋_Live_at_Campus_Fes_(TV_anime_ver.)_小木曽雪菜(CV_米澤円).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "届かない恋 Valentine Live",
+      "artist": "小木曽雪菜",
+      "has_synced": true,
+      "path": "select/08_届かない恋_Valentine_Live_小木曽雪菜.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "届かない恋 Valentine Live",
+      "artist": "小木曽雪菜 (cv. 米澤円)",
+      "has_synced": true,
+      "path": "select/09_届かない恋_Valentine_Live_小木曽雪菜_(cv._米澤円).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "届かない恋 song by Chiaki",
+      "artist": "和泉千晶",
+      "has_synced": true,
+      "path": "select/10_届かない恋_song_by_Chiaki_和泉千晶.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "届かない恋(Piano version)",
+      "artist": "冬馬かずさ",
+      "has_synced": false,
+      "path": "select/11_届かない恋(Piano_version)_冬馬かずさ.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "届かない恋",
+      "artist": "和泉千晶",
+      "has_synced": true,
+      "path": "select/12_届かない恋_和泉千晶.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "届かない恋 (Live at Campus Festival)",
+      "artist": "小木曽雪菜",
+      "has_synced": false,
+      "path": "select/13_届かない恋_(Live_at_Campus_Festival)_小木曽雪菜.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "届かない恋 Live at Campus Fes",
+      "artist": "Ogiso, Setsuna (cv. Yonezawa, Madoka)",
+      "has_synced": false,
+      "path": "select/14_届かない恋_Live_at_Campus_Fes_Ogiso,_Setsuna_(cv._Yonezawa,_Madoka).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "届かない恋 ’13",
+      "artist": "上原れな",
+      "has_synced": true,
+      "path": "select/15_届かない恋_’13_上原れな.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "届かない恋",
+      "artist": "上原れな",
+      "has_synced": false,
+      "path": "select/pl_01_届かない恋_上原れな.txt"
+    }
+  ]
+}
